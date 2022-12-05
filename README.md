@@ -13,3 +13,5 @@ https://pytorch.org/cppdocs/installing.html
 visualstudio: https://marketplace.visualstudio.com/items?itemName=YiZhang.LibTorch001
 
 bazel: https://github.com/bazelbuild/bazel
+
+msys2: https://www.msys2.org/
