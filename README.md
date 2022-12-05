@@ -11,3 +11,5 @@ pytorch c++: https://www.youtube.com/watch?v=RFq8HweBjHA&list=PLZAGo22la5t4UWx37
 https://pytorch.org/cppdocs/installing.html
 
 visualstudio: https://marketplace.visualstudio.com/items?itemName=YiZhang.LibTorch001
+
+bazel: https://github.com/bazelbuild/bazel
