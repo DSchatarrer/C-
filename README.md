@@ -19,3 +19,7 @@ bazel: https://github.com/bazelbuild/bazel
 msys2: https://www.msys2.org/
 
 curso c++: https://www.youtube.com/watch?v=krbX6A9Drgk&list=PL2PZw96yQChy4TmJUZsOk3-MZqLPFiHCH
+
+pytorch c++:https://www.youtube.com/watch?v=auRPXMMHJzc&t=10s
+
+onnx: https://www.youtube.com/watch?v=cK5AyawZSUI
