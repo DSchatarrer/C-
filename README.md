@@ -25,3 +25,7 @@ pytorch c++:https://www.youtube.com/watch?v=auRPXMMHJzc&t=10s
 onnx: https://www.youtube.com/watch?v=cK5AyawZSUI
 
 curso c++: https://www.youtube.com/playlist?list=PLEtcGQaT56cjJWLMsy-UCQ05zogAp7zbQ
+
+libtorch https://github.com/mszhanyi/VSIXTorch
+
+link binarios liborch: https://blog.csdn.net/guzhao9901/article/details/125051108
