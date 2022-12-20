@@ -1,0 +1,20 @@
+
+
+
+1.- AÑADIR AL PATH DE VARIABLES: (la ruta que contiene el dll)
+    C:\opencv\build\x64\vc15\lib
+
+
+2.- AÑADIR tanto en release como en debug:
+
+    C/C++ --> general --> aditional include directory:
+	C:\opencv\build\include
+
+    Linker --> general --> aditional library directory:	
+	C:\opencv\build\x64\vc15\lib
+
+3.- Linker --> Input --> aditional dependencies:
+
+      opencv_world454d.lib --> para el modo debug
+
+      opencv_world454.lib --> para el modo release
