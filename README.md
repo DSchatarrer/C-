@@ -23,3 +23,5 @@ curso c++: https://www.youtube.com/watch?v=krbX6A9Drgk&list=PL2PZw96yQChy4TmJUZs
 pytorch c++:https://www.youtube.com/watch?v=auRPXMMHJzc&t=10s
 
 onnx: https://www.youtube.com/watch?v=cK5AyawZSUI
+
+curso c++: https://www.youtube.com/playlist?list=PLEtcGQaT56cjJWLMsy-UCQ05zogAp7zbQ
