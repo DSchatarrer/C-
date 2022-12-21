@@ -29,4 +29,5 @@ curso c++: https://www.youtube.com/playlist?list=PLEtcGQaT56cjJWLMsy-UCQ05zogAp7
 libtorch https://github.com/mszhanyi/VSIXTorch
 
 link binarios liborch: https://blog.csdn.net/guzhao9901/article/details/125051108
+
 config libtorch windows: https://allentdan.github.io/2020/03/05/windows-libtorch-configuration/
