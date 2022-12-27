@@ -33,3 +33,5 @@ link binarios liborch: https://blog.csdn.net/guzhao9901/article/details/12505110
 config libtorch windows: https://allentdan.github.io/2020/03/05/windows-libtorch-configuration/
 
 libreria boost: https://theboostcpplibraries.com/
+
+conectar a base de datos: https://www.geeksforgeeks.org/database-connectivity-using-cc/
