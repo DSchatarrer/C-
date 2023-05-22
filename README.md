@@ -37,3 +37,5 @@ libreria boost: https://theboostcpplibraries.com/
 conectar a base de datos: https://www.geeksforgeeks.org/database-connectivity-using-cc/
 
 añadir librerias externas: https://www.youtube.com/watch?v=WbG8x3Jn-g4
+
+curos c++: https://www.youtube.com/watch?v=CxX2PiIUbI0&list=PLEtcGQaT56cjJWLMsy-UCQ05zogAp7zbQ&index=73
