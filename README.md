@@ -35,3 +35,5 @@ config libtorch windows: https://allentdan.github.io/2020/03/05/windows-libtorch
 libreria boost: https://theboostcpplibraries.com/
 
 conectar a base de datos: https://www.geeksforgeeks.org/database-connectivity-using-cc/
+
+añadir librerias externas: https://www.youtube.com/watch?v=WbG8x3Jn-g4
